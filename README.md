@@ -27,11 +27,10 @@
 <h2>Repository Information</h2>
     <ul>
 <!--         <li><strong>Created At</strong>: June 23, 2024</li> -->
-        <li><strong>Owner</strong>: <a href="https://github.com/Himanshu151281">Himanshu151281</a></li>
+        <li><strong>Owner</strong>: <a href="https://github.com/Himanshu151281">Himanshu Kumar</a></li>
         <li><strong>Default Branch</strong>: main</li>
         <li><strong>Languages Used</strong>: CSS (65.4%), HTML (34.6%)</li>
     </ul>
 
 <h2>License</h2>
     <p>This project is open-source and does not have a specific license. Feel free to use and modify it as you wish.</p>
-    <p>You can <a href="https://github.com/Himanshu151281/Login_Form">view the repository here</a>.</p>
